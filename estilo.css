@@ -1,0 +1,71 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin:0px;
+
+}
+
+header{
+
+	padding-top: 20px;
+	height: 450px;
+	background-image: url("https://p4.wallpaperbetter.com/wallpaper/344/552/902/black-dark-forest-monochrome-wallpaper-preview.jpg");
+	background-size: cover;
+}
+
+
+
+.cajas{
+	border: 5px solid #424242;
+	border-radius: 10px;		
+	width: 90%;
+	height: 90%;
+	padding:20px;
+
+
+}
+
+.cajas2{
+	border: 5px solid #424242;
+	width: 90%;
+	height: 100%;
+	padding: 20px;
+	border-radius: 10px;
+		
+}
+
+.lista{
+  list-style:inside;
+}
+
+footer{
+	margin-top: 20px;
+
+	height: 100px;
+	padding-top: 40px;
+	padding-right: 40px;
+}
+
+/*Ejer2 */
+
+.cajaEjer2{
+
+	padding-left: 30px;
+}
+
+main .container .row img{
+	width: 50%;
+	height: 50%;
+}
+
+.pepe{
+	jhkjhkwidth: 50px;
+	hjhkheight: 50px;
+}
+
+/*Ejer14 */
+
+.blanco .nav-item a{
+	color: white;
+	background-color: rgba(249, 49, 84, 0.3);
+}
